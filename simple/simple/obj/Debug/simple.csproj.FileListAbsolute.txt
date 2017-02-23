@@ -1,1 +1,9 @@
-C:\Users\aluno\Documents\Projetos\simple\simple\bin\Debug\simple.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\simple\simple\bin\Debug\simple.exe.config
+C:\Users\aluno\Documents\Visual Studio 2015\Projects\simple\simple\bin\Debug\simple.exe
+C:\Users\aluno\Documents\Visual Studio 2015\Projects\simple\simple\bin\Debug\simple.pdb
+C:\Users\aluno\Documents\Visual Studio 2015\Projects\simple\simple\obj\Debug\simple.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2015\Projects\simple\simple\obj\Debug\simple.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2015\Projects\simple\simple\obj\Debug\simple.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2015\Projects\simple\simple\obj\Debug\simple.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2015\Projects\simple\simple\obj\Debug\simple.exe
+C:\Users\aluno\Documents\Visual Studio 2015\Projects\simple\simple\obj\Debug\simple.pdb
