@@ -25,7 +25,7 @@ namespace tiposPrimitivos
 
             //Console.WriteLine(numero);
             //Console.WriteLine(texto);
-           // Console.WriteLine(resultado);
+           //Console.WriteLine(resultado);
            // Console.WriteLine(texto+" Você esta vivo? {0}", certidaoDeVivo);
            
            
